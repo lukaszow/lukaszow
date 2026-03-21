@@ -1,16 +1,34 @@
-## Hi there 👋
+# Łukasz Stilger
 
-<!--
-**lukaszow/lukaszow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Agile Coach · Technical Roots · Power of Calm**
 
-Here are some ideas to get you started:
+20+ years in software development. Now helping IT leaders move from operational chaos to predictable delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I do
+
+- Scale agile across teams (up to 27 teams) in enterprise environments
+- Mentor Software Architects and senior specialists transitioning into leadership
+- Coach IT leaders on building high-performing, self-organizing teams
+- Lecture at Opole University of Technology — *"Crafting Value with Modern Teams"*
+
+### How I think
+
+Deep technical background + calm, structured approach = real, measurable outcomes.
+Not frameworks for their own sake — outcomes that matter.
+
+---
+
+### Certifications
+
+`PSM` · `ICP-ATF` · `SAFe 6 Practice Consultant` · `ICAgile Expert in Agile Coaching`
+
+### Writing
+
+- [Substack](https://lukaszstilger.substack.com/)
+- [Medium](https://lukaszstilger.medium.com/)
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/lukaszow) · lukasz.stilger@gmail.com
