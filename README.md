@@ -2,7 +2,7 @@
 
 **Agile Coach · Technical Roots · Power of Calm**
 
-20+ years in software development. Now helping IT leaders move from operational chaos to predictable delivery.
+Senior Software Engineer & Agile Coach with 20+ years of experience, currently leading large-scale delivery at Capgemini and lecturing at the Opole University of Technology. Guided by the "Power of Calm" and the 80/20 principle, I bridge enterprise leadership with a deep passion for building with AI Agents. I am now looking to channel my experience and passion into the realization of innovative, high-impact products where I can contribute to building something truly meaningful.
 
 ---
 
